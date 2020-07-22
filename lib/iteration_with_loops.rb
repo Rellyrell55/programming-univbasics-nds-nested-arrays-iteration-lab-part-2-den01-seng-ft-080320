@@ -11,5 +11,5 @@ def find_min_in_nested_arrays(src)
     end
     row_index += 1
   end
-  final_string = [1,1,0]
+  final_string 
 end
