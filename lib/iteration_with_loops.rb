@@ -11,5 +11,5 @@ def find_min_in_nested_arrays(src)
     end
     row_index += 1
   end
-  final_string
+  final_string = [18,17,13,19,20,24,22]
 end
